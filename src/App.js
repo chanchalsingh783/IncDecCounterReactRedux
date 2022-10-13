@@ -22,11 +22,6 @@ const App = ()=>{
             </div>
         </div>
       </div>
-      <div className="row m-5">
-        <div className="col-7 mx-auto">
-            <h1>Hello</h1>
-        </div>
-      </div>
     </div>
   </>)
 }
